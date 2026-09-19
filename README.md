@@ -1,7 +1,5 @@
 # goit-pythonweb-hw-03
 
-Домашнє завдання №3 з курсу FullStack Web Development with Python.
-
 ## Запуск
 
 ```bash
